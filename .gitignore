@@ -1,0 +1,10 @@
+
+# Compiled C programs
+*.exe
+*.out
+*.o
+
+# Debug and temporary files
+*.obj
+*.pdb
+*.ilk
