@@ -1,0 +1,104 @@
+[
+  {
+    "number": 1,
+    "source_name": "image1.png",
+    "filename": "handout-figure-01.png",
+    "bytes": 26561
+  },
+  {
+    "number": 2,
+    "source_name": "image2.png",
+    "filename": "handout-figure-02.png",
+    "bytes": 134385
+  },
+  {
+    "number": 3,
+    "source_name": "image3.png",
+    "filename": "handout-figure-03.png",
+    "bytes": 46341
+  },
+  {
+    "number": 4,
+    "source_name": "image4.png",
+    "filename": "handout-figure-04.png",
+    "bytes": 5865
+  },
+  {
+    "number": 5,
+    "source_name": "image5.png",
+    "filename": "handout-figure-05.png",
+    "bytes": 4847
+  },
+  {
+    "number": 6,
+    "source_name": "image6.jpeg",
+    "filename": "handout-figure-06.jpeg",
+    "bytes": 25410
+  },
+  {
+    "number": 7,
+    "source_name": "image7.jpeg",
+    "filename": "handout-figure-07.jpeg",
+    "bytes": 24585
+  },
+  {
+    "number": 8,
+    "source_name": "image8.png",
+    "filename": "handout-figure-08.png",
+    "bytes": 39488
+  },
+  {
+    "number": 9,
+    "source_name": "image9.png",
+    "filename": "handout-figure-09.png",
+    "bytes": 19617
+  },
+  {
+    "number": 10,
+    "source_name": "image10.png",
+    "filename": "handout-figure-10.png",
+    "bytes": 20221
+  },
+  {
+    "number": 11,
+    "source_name": "image11.png",
+    "filename": "handout-figure-11.png",
+    "bytes": 18308
+  },
+  {
+    "number": 12,
+    "source_name": "image12.png",
+    "filename": "handout-figure-12.png",
+    "bytes": 17344
+  },
+  {
+    "number": 13,
+    "source_name": "image13.png",
+    "filename": "handout-figure-13.png",
+    "bytes": 45765
+  },
+  {
+    "number": 14,
+    "source_name": "image14.png",
+    "filename": "handout-figure-14.png",
+    "bytes": 28692
+  },
+  {
+    "number": 15,
+    "source_name": "image15.jpeg",
+    "filename": "handout-figure-15.jpeg",
+    "bytes": 31583
+  },
+  {
+    "number": 16,
+    "source_name": "image16.jpeg",
+    "filename": "handout-figure-16.jpeg",
+    "bytes": 5871
+  },
+  {
+    "number": 17,
+    "source_name": "image17.jpeg",
+    "filename": "handout-figure-17.jpeg",
+    "bytes": 4983
+  }
+]
